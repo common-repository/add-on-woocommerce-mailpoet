@@ -1,0 +1,278 @@
+# Translation of Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) in Asturian
+# This file is distributed under the same license as the Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ast_ES\n"
+"Project-Id-Version: Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk)\n"
+
+#: add-on-woocommerce-mailpoet.php:77
+msgid ""
+"Add-on WooCommerce MailPoet 3  plugin requires PHP version 5.4 or newer, "
+"Please upgrade your PHP."
+msgstr ""
+
+#: add-on-woocommerce-mailpozet.php:104
+#, php-format
+msgid "%s plugin requires %s plugin, Please activate %s first to using %s."
+msgstr ""
+
+#: add-on-woocommerce-mailpoet.php:132
+#, php-format
+msgid "Hold on a minute. You need to install %s first to use %s."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:34
+msgid "MailPoet"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:56
+msgid "General"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:57
+#: includes/class-mpwa-admin-settings.php:71
+msgid "Available Lists"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:73
+msgid ""
+"Simply tick the lists you want your customers to subscribe to or allow the "
+"customer to choose from and press \"Save changes\"."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:87
+msgid "MailPoet WooCommerce Add-on"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:89
+msgid ""
+"Now your customers can subscribe to newsletters you have created with "
+"MailPoet as they order. These settings control how your customers subscribe."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:93
+msgid "Enable subscription?"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:94
+msgid "Tick this box to enable MailPoet subscription during checkout."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:100
+msgid "Multi-Subscription?"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:102
+#, php-format
+msgid ""
+"If you have more than one newsletter. Allow your customers to select which "
+"lists they wish to subscribe too. %s %s"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:111
+msgid "No"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:112
+msgid "Yes"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:116
+msgid "Enable Double Opt-in?"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:117
+msgid ""
+"Controls whether a double opt-in confirmation message is sent, defaults to "
+"true."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:123
+msgid "Default checkbox status"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:124
+msgid ""
+"The default state of the subscribe checkbox. Be aware some countries have "
+"laws against using opt-out checkboxes."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:131
+msgid "Checked"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:132
+msgid "Un-checked"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:136
+msgid "Subscribe checkbox label"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:137
+msgid ""
+"The text you want to display next to the \"Subscribe to Newsletter\" "
+"checkbox."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:141
+#: includes/class-mpwa-frontend-fields.php:183
+msgid "Yes, please subscribe me to the newsletter."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:145
+msgid "Subscription Position"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:146
+msgid ""
+"Select where on the checkout page you want to display the subscription sign-"
+"up."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:153
+msgid "Before Billing Form"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:154
+msgid "After Billing Form"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:155
+msgid "Before Shipping Form"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:156
+msgid "After Shipping Form"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:157
+msgid "Before Order Notes"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:158
+msgid "After Order Notes"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:159
+msgid "Before Order Submit"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:160
+msgid "After Order Submit"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:164
+msgid "Remove all data on uninstall?"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:165
+msgid ""
+"If enabled, all settings for this plugin will all be deleted when "
+"uninstalling via Plugins > Delete."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:174
+msgid "GDPR"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:178
+msgid "Display GDPR Subscription consent Text?"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:179
+msgid "Show GDPR Subscription Consent Text"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:185
+msgid "Privacy page"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:186
+msgid "Choose a page to act as your privacy policy."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:195
+msgid "GDPR Subscription Consent Text"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:196
+msgid ""
+"<i>Write plain or HTML format and include <strong>[privacy_policy]</strong> "
+"shortcode to link privacy page in your text. </i>"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:202
+msgid "Display Unsubscribe option"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:203
+msgid "Let registered customer unsubscribe through checkbout page"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:209
+msgid "Unsubscribe checkbox label"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:210
+msgid ""
+"If this feature is enabled, a checkbox will be display in checkout page "
+"after subscription section which will let your customer to unsubscribe from "
+"mailpoet."
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:214
+msgid "Unsubscribe from our newsletter"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:256
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-mpwa-admin-settings.php:257
+msgid "Newsletters"
+msgstr ""
+
+#: includes/class-mpwa-frontend-fields.php:125
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/class-mpwa-frontend-fields.php:153
+msgid "Subscribe to Newsletters"
+msgstr ""
+
+#: includes/class-mpwa-frontend-fields.php:178
+msgid "Subscribe to Newsletter"
+msgstr ""
+
+#: includes/class-mpwa-place-order-deprecated.php:78
+#: includes/class-mpwa-place-order.php:123
+msgid ""
+"We have sent you an email to confirm your newsletter subscription. Please "
+"confirm your subscription. Thank you."
+msgstr ""
+
+#: includes/class-mpwa-place-order-deprecated.php:102
+#: includes/class-mpwa-place-order.php:163
+msgid "Thank you for subscribing to our newsletters."
+msgstr ""
+
+#: includes/class-mpwa-place-order-deprecated.php:135
+#: includes/class-mpwa-place-order.php:197
+msgid ""
+"You will no longer receive our newletter! Feel free to subscribe our "
+"newsletter anytime you want."
+msgstr ""
+
+#: includes/class-mpwa-place-order-deprecated.php:151
+#: includes/class-mpwa-place-order.php:212
+msgid ""
+"There appears to be a problem subscribing you to our newsletters. Please let "
+"us know so we can manually add you ourselves. Thank you."
+msgstr ""

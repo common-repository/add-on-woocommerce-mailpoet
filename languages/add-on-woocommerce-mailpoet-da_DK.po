@@ -1,0 +1,205 @@
+# Translation of Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) in Danish
+# This file is distributed under the same license as the Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-25 16:14+0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.1\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: includes/class-mpwa-frontend-fields.php:94
+msgid "Subscribe to Newsletters"
+msgstr "Abonner på nyhedsbreve"
+
+#: includes/class-mpwa-admin-settings.php:141
+#: includes/class-mpwa-frontend-fields.php:112
+msgid "Yes, please subscribe me to the newsletter."
+msgstr "Ja, tilføj mig gerne som abonnent til nyhedsbrevet."
+
+#. Author URI of the plugin/theme
+msgid "http://www.tikweb.dk/"
+msgstr "http://www.tikweb.dk/"
+
+#. Author of the plugin/theme
+msgid "Tikweb"
+msgstr "Tikweb"
+
+#. Description of the plugin/theme
+msgid "Let your customers subscribe to your newsletter as they checkout with their purchase."
+msgstr "Lad dine kunder abonnere på dit nyhedsbrev når de køber via kassen."
+
+#. Plugin Name of the plugin/theme
+msgid "Add-on WooCommerce MailPoet 3"
+msgstr "Add-on WooCommerce MailPoet 3"
+
+#: includes/class-mpwa-place-order.php:124
+msgid "There appears to be a problem subscribing you to our newsletters. Please let us know so we can manually add you ourselves. Thank you."
+msgstr "Der ser ud til at være problemer med at tilføje dit som abonnent til vores nyhedsbreve. Vær venlig at give os besked, så vi manuelt kan tilføje dig. Mange tak."
+
+#: includes/class-mpwa-place-order.php:100
+msgid "Thank you for subscribing to our newsletters."
+msgstr "Tak for at du abonnerer på vores nyhedsbreve."
+
+#: includes/class-mpwa-place-order.php:76
+msgid "We have sent you an email to confirm your newsletter subscription. Please confirm your subscription. Thank you."
+msgstr "Vi har sendt dig en e-mail for at bekræfte dit nyhedsbrev abonnement. Vær venlig at bekræfte abonnementet. Mange tak."
+
+#: includes/class-mpwa-frontend-fields.php:107
+msgid "Subscribe to Newsletter"
+msgstr "Abonner på nyhedsbrevet"
+
+#: includes/class-mpwa-admin-settings.php:211
+msgid "Newsletters"
+msgstr "Nyhedsbreve"
+
+#: includes/class-mpwa-admin-settings.php:210
+msgid "Enabled"
+msgstr "Aktiveret"
+
+#: includes/class-mpwa-admin-settings.php:165
+msgid "If enabled, all settings for this plugin will all be deleted when uninstalling via Plugins > Delete."
+msgstr "Hvis aktiveret, så vil alle indstillinger for dette plugin blive slettet når du afinstallerer via Plugins > Slet."
+
+#: includes/class-mpwa-admin-settings.php:164
+msgid "Remove all data on uninstall?"
+msgstr "Fjern alle data ved af-installation?"
+
+#: includes/class-mpwa-admin-settings.php:160
+msgid "After Order Submit"
+msgstr "Efter ordre indsendelse"
+
+#: includes/class-mpwa-admin-settings.php:159
+msgid "Before Order Submit"
+msgstr "Før ordre indsendelse"
+
+#: includes/class-mpwa-admin-settings.php:158
+msgid "After Order Notes"
+msgstr "Efter ordrenoter"
+
+#: includes/class-mpwa-admin-settings.php:157
+msgid "Before Order Notes"
+msgstr "Før ordrenoter"
+
+#: includes/class-mpwa-admin-settings.php:156
+msgid "After Shipping Form"
+msgstr "Efter leveringsformular"
+
+#: includes/class-mpwa-admin-settings.php:155
+msgid "Before Shipping Form"
+msgstr "Før leveringsformular"
+
+#: includes/class-mpwa-admin-settings.php:154
+msgid "After Billing Form"
+msgstr "Efter faktureringsformular"
+
+#: includes/class-mpwa-admin-settings.php:153
+msgid "Before Billing Form"
+msgstr "Før faktureringsformular"
+
+#: includes/class-mpwa-admin-settings.php:146
+msgid "Select where on the checkout page you want to display the subscription sign-up."
+msgstr "Vælg hvor på kasse-siden du ønsker at vise din abonnementstilmelding."
+
+#: includes/class-mpwa-admin-settings.php:145
+msgid "Subscription Position"
+msgstr "Abonnement position"
+
+#: includes/class-mpwa-admin-settings.php:137
+msgid "The text you want to display next to the \"Subscribe to Newsletter\" checkbox."
+msgstr "Teksten som du ønsker at vise ved siden af \"Abonner på nyhedsbrevet\" afkrydsningsfeltet."
+
+#: includes/class-mpwa-admin-settings.php:136
+msgid "Subscribe checkbox label"
+msgstr "Abonner afkrydsningsfelt etiket"
+
+#: includes/class-mpwa-admin-settings.php:132
+msgid "Un-checked"
+msgstr "Ikke afkrydset"
+
+#: includes/class-mpwa-admin-settings.php:131
+msgid "Checked"
+msgstr "Markeret"
+
+#: includes/class-mpwa-admin-settings.php:112
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-mpwa-admin-settings.php:111
+msgid "No"
+msgstr "Nej"
+
+#: includes/class-mpwa-admin-settings.php:116
+msgid "Enable Double Opt-in?"
+msgstr "Aktiver dobbel tilmelding (opt-in)?"
+
+#: includes/class-mpwa-admin-settings.php:93
+msgid "Enable subscription?"
+msgstr "Aktiver abonnement?"
+
+#: includes/class-mpwa-admin-settings.php:123
+msgid "Default checkbox status"
+msgstr "Standard afkrydsningsfelt status"
+
+#: includes/class-mpwa-admin-settings.php:117
+msgid "Controls whether a double opt-in confirmation message is sent, defaults to true."
+msgstr "Styrer om dobbel tilmelding (opt-in) bekræftelsesbesked sendes, er som standard aktiveret."
+
+#: includes/class-mpwa-admin-settings.php:102
+msgid "If you have more than one newsletter. Allow your customers to select which lists they wish to subscribe too. %s %s"
+msgstr "Hvis du har mere end et nyhedsbrev. Giv dine kunder mulighed for at vælge hvilke lister de ønsker at abonnere på. %s %s"
+
+#: includes/class-mpwa-admin-settings.php:57
+#: includes/class-mpwa-admin-settings.php:71
+msgid "Available Lists"
+msgstr "Tilgængelige lister"
+
+#: includes/class-mpwa-admin-settings.php:56
+msgid "General"
+msgstr "Generelt"
+
+#: includes/class-mpwa-admin-settings.php:34
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: add-on-woocommerce-mailpoet.php:116
+msgid "Hold on a minute. You need to install %s first to use %s."
+msgstr "Vent et øjeblik. Du bliver nødt til først at installere %s før du kan bruge %s."
+
+#: includes/class-mpwa-admin-settings.php:124
+msgid "The default state of the subscribe checkbox. Be aware some countries have laws against using opt-out checkboxes."
+msgstr "Stadard tilstanden for abonner afkrydsningsfelter. Vær opmærksom på at lande har lovgivning omkring brug af opt-out afkrydsningsfelter."
+
+#: includes/class-mpwa-admin-settings.php:100
+msgid "Multi-Subscription?"
+msgstr "Multi-abonnement?"
+
+#: includes/class-mpwa-admin-settings.php:94
+msgid "Tick this box to enable MailPoet subscription during checkout."
+msgstr "Afkryds dennne boks for at aktivere MailPoet abonnement ved kassen."
+
+#: includes/class-mpwa-admin-settings.php:89
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet as they order. These settings control how your customers subscribe."
+msgstr "Nu kan dine kunder abonnere på nyhedsbreve du har lavet med MailPoet, mens de bestiller. Disse indstillinger kontrollerer hvordan dine kunder abonnerer."
+
+#: includes/class-mpwa-admin-settings.php:87
+msgid "MailPoet WooCommerce Add-on"
+msgstr "MailPoet WooCommerce Add-on"
+
+#: includes/class-mpwa-admin-settings.php:73
+msgid "Simply tick the lists you want your customers to subscribe to or allow the customer to choose from and press \"Save changes\"."
+msgstr "Afkryds blot de lister du ønsker dine kunder kan abonnere på eller giv kunden mulighed for at vælge fra og tryk \"Gem indstillinger\"."
+
+#: add-on-woocommerce-mailpoet.php:88
+msgid "%s plugin requires %s plugin, Please activate %s first to using %s."
+msgstr "%s plugin kræver %s plugin, aktiver venligst først %s for at bruge %s."
+
+#: add-on-woocommerce-mailpoet.php:62
+msgid "Add-on WooCommerce MailPoet 3  plugin requires PHP version 5.4 or newer, Please upgrade your PHP."
+msgstr "Add-on WooCommerce MailPoet 3 plugin kræver PHP version 5.4 eller nyere, opgrader venligst din PHP."

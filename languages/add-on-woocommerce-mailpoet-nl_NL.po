@@ -1,0 +1,254 @@
+# Translation of Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-02 14:06:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk)\n"
+
+#: includes/class-mpwa-place-order.php:149
+#: includes/class-mpwa-place-order-deprecated.php:135
+msgid "You will no longer receive our newletter! Feel free to subscribe our newsletter anytime you want."
+msgstr "U zal niet langer onze nieuwsbrief ontvangen, maar u kunt ten alle tijden weer opnieuw inschrijven op de nieuwsbrief"
+
+#: includes/class-mpwa-admin-settings.php:214
+msgid "Unsubscribe from our newsletter"
+msgstr "Uitschrijven nieuwsbrief"
+
+#: includes/class-mpwa-admin-settings.php:210
+msgid "If this feature is enabled, a checkbox will be display in checkout page after subscription section which will let your customer to unsubscribe from mailpoet."
+msgstr "Als deze optie is ingeschakeld, zal een checkbox getoond worden in de betaalpagina na het inschrijfgedeelte, welke de klant in de gelegenheid stelt om uit te schrijven van mailpoet"
+
+#: includes/class-mpwa-admin-settings.php:209
+msgid "Unsubscribe checkbox label"
+msgstr "Label checkbox uitschrijven"
+
+#: includes/class-mpwa-admin-settings.php:202
+msgid "Display Unsubscribe option"
+msgstr "Toon optie \"Uitschrijven\""
+
+#: includes/class-mpwa-admin-settings.php:196
+msgid "<i>Write plain or HTML format and include <strong>[privacy_policy]</strong> shortcode to link privacy page in your text. </i>"
+msgstr "<i>Schrijf in platte tekst of HTML formaat en voeg toe de <strong>[privacy_policy]</strong> shortcode om de privacy pagina te linken in uw tekst. </i>"
+
+#: includes/class-mpwa-admin-settings.php:195
+msgid "GDPR Subscription Consent Text"
+msgstr "GDPR Inschrijvings toestemming tekst"
+
+#: includes/class-mpwa-admin-settings.php:186
+msgid "Choose a page to act as your privacy policy."
+msgstr "Kies een pagina die functioneert als uw privacy beleid."
+
+#: includes/class-mpwa-admin-settings.php:185
+msgid "Privacy page"
+msgstr "Privacy beleid"
+
+#: includes/class-mpwa-admin-settings.php:179
+msgid "Show GDPR Subscription Consent Text"
+msgstr "Toon GDPR Inschrijving toestemmings tekst"
+
+#: includes/class-mpwa-admin-settings.php:178
+msgid "Display GDPR Subscription consent Text?"
+msgstr "Toon GDPR Inschrijvingtoestemmings tekst"
+
+#: includes/class-mpwa-admin-settings.php:174
+msgid "GDPR"
+msgstr "GDPR"
+
+#: includes/class-mpwa-frontend-fields.php:152
+msgid "Subscribe to Newsletters"
+msgstr "Aanmelden voor nieuwsbrieven"
+
+#: includes/class-mpwa-admin-settings.php:141
+#: includes/class-mpwa-frontend-fields.php:182
+msgid "Yes, please subscribe me to the newsletter."
+msgstr "Ja, schrijf mij in voor de nieuwsbrief."
+
+#. Author URI of the plugin
+msgid "http://www.tikweb.dk/"
+msgstr "http://www.tikweb.dk/"
+
+#. Plugin Name of the plugin
+msgid "Add-on WooCommerce MailPoet 3"
+msgstr "Add-on WooCommerce MailPoet 3"
+
+#. Author of the plugin
+msgid "Tikweb"
+msgstr "Tikweb"
+
+#: includes/class-mpwa-admin-settings.php:257
+msgid "Newsletters"
+msgstr "Nieuwsbrieven"
+
+#: includes/class-mpwa-admin-settings.php:158
+msgid "After Order Notes"
+msgstr "Na bestelnotities"
+
+#: includes/class-mpwa-admin-settings.php:157
+msgid "Before Order Notes"
+msgstr "Voor bestelnotities"
+
+#: includes/class-mpwa-admin-settings.php:156
+msgid "After Shipping Form"
+msgstr "Na verzendadresformulier"
+
+#: includes/class-mpwa-admin-settings.php:155
+msgid "Before Shipping Form"
+msgstr "Voor verzendadresformulier"
+
+#: includes/class-mpwa-admin-settings.php:154
+msgid "After Billing Form"
+msgstr "Na factuurgegevens"
+
+#: includes/class-mpwa-admin-settings.php:153
+msgid "Before Billing Form"
+msgstr "Voor factuurgegevens"
+
+#: includes/class-mpwa-admin-settings.php:145
+msgid "Subscription Position"
+msgstr "Positie inschrijving"
+
+#: includes/class-mpwa-admin-settings.php:112
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-mpwa-admin-settings.php:111
+msgid "No"
+msgstr "Nee"
+
+#: includes/class-mpwa-admin-settings.php:100
+msgid "Multi-Subscription?"
+msgstr "Inschrijven op meerdere lijsten?"
+
+#: includes/class-mpwa-admin-settings.php:87
+msgid "MailPoet WooCommerce Add-on"
+msgstr "MailPoet WooCommerce Add-on"
+
+#: includes/class-mpwa-admin-settings.php:57
+#: includes/class-mpwa-admin-settings.php:71
+msgid "Available Lists"
+msgstr "Beschikbare lijsten"
+
+#: includes/class-mpwa-admin-settings.php:56
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/class-mpwa-admin-settings.php:34
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: includes/class-mpwa-admin-settings.php:164
+msgid "Remove all data on uninstall?"
+msgstr "Verwijder alle data bij verwijderen plugin?"
+
+#: includes/class-mpwa-admin-settings.php:116
+msgid "Enable Double Opt-in?"
+msgstr "Zet dubbele opt-in aan?"
+
+#: add-on-woocommerce-mailpoet.php:116
+msgid "Hold on a minute. You need to install %s first to use %s."
+msgstr "Even geduld. Je moet eerst %s installeren om %s te gebruiken."
+
+#: add-on-woocommerce-mailpoet.php:88
+msgid "%s plugin requires %s plugin, Please activate %s first to using %s."
+msgstr "%s plugin vereist %s plugin, activeer eerst %s om %s te gebruiken."
+
+#: add-on-woocommerce-mailpoet.php:62
+msgid "Add-on WooCommerce MailPoet 3  plugin requires PHP version 5.4 or newer, Please upgrade your PHP."
+msgstr "Add-on WooCommerce MailPoet 3 plugin vereist PHP versie 5.4 of nieuwer, update PHP."
+
+#. Description of the plugin
+msgid "Let your customers subscribe to your newsletter as they checkout with their purchase."
+msgstr "Laat je klanten zich aanmelden voor jouw nieuwsbrief tijdens het afrekenen van hun aankoop."
+
+#: includes/class-mpwa-place-order.php:165
+#: includes/class-mpwa-place-order-deprecated.php:151
+msgid "There appears to be a problem subscribing you to our newsletters. Please let us know so we can manually add you ourselves. Thank you."
+msgstr "Er is een probleem opgetreden bij het aanmelden voor onze nieuwsbrieven. Neem contact met ons op, dan verzorgen wij handmatig jouw inschrijving. Bedankt."
+
+#: includes/class-mpwa-place-order.php:116
+#: includes/class-mpwa-place-order-deprecated.php:102
+msgid "Thank you for subscribing to our newsletters."
+msgstr "Bedankt voor het aanmelden op onze nieuwsbrieven."
+
+#: includes/class-mpwa-place-order.php:91
+#: includes/class-mpwa-place-order-deprecated.php:78
+msgid "We have sent you an email to confirm your newsletter subscription. Please confirm your subscription. Thank you."
+msgstr "Wij hebben je een e-mail verzonden om jouw inschrijving te bevestigen. Je moet jouw inschrijving bevestigen. Bedankt."
+
+#: includes/class-mpwa-frontend-fields.php:177
+msgid "Subscribe to Newsletter"
+msgstr "Aanmelden voor nieuwsbrief"
+
+#: includes/class-mpwa-admin-settings.php:256
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: includes/class-mpwa-admin-settings.php:165
+msgid "If enabled, all settings for this plugin will all be deleted when uninstalling via Plugins > Delete."
+msgstr "Indien ingeschakeld, worden alle instellingen van deze plugin verwijderd bij het verwijderen via Plugins > Verwijder."
+
+#: includes/class-mpwa-admin-settings.php:160
+msgid "After Order Submit"
+msgstr "Na versturen bestelling"
+
+#: includes/class-mpwa-admin-settings.php:159
+msgid "Before Order Submit"
+msgstr "Voor versturen bestelling"
+
+#: includes/class-mpwa-admin-settings.php:146
+msgid "Select where on the checkout page you want to display the subscription sign-up."
+msgstr "Selecteer waar op de bestelpagina de inschrijving getoond moet worden. "
+
+#: includes/class-mpwa-admin-settings.php:137
+msgid "The text you want to display next to the \"Subscribe to Newsletter\" checkbox."
+msgstr "De tekst die je wilt tonen naast de \"Aanmelden voor nieuwsbrief\" selectie."
+
+#: includes/class-mpwa-admin-settings.php:136
+msgid "Subscribe checkbox label"
+msgstr "Label voor selectievakje "
+
+#: includes/class-mpwa-admin-settings.php:132
+msgid "Un-checked"
+msgstr "Niet geselecteerd"
+
+#: includes/class-mpwa-admin-settings.php:131
+msgid "Checked"
+msgstr "Geselecteerd"
+
+#: includes/class-mpwa-admin-settings.php:124
+msgid "The default state of the subscribe checkbox. Be aware some countries have laws against using opt-out checkboxes."
+msgstr "De standaard waarde van de aanmelden selectie. Let op sommige landen hebben wetten voor opt-out selectievakjes."
+
+#: includes/class-mpwa-admin-settings.php:123
+msgid "Default checkbox status"
+msgstr "Standaard selectievakje status"
+
+#: includes/class-mpwa-admin-settings.php:102
+msgid "If you have more than one newsletter. Allow your customers to select which lists they wish to subscribe too. %s %s"
+msgstr "Als je meerdere nieuwsbrieven hebt, geef je klanten de keuze op welke lijsten zij zich willen abonneren. %s %s"
+
+#: includes/class-mpwa-admin-settings.php:94
+msgid "Tick this box to enable MailPoet subscription during checkout."
+msgstr "Zet deze selectie aan om MailPoet subscription in te schakelen tijdens bestellen."
+
+#: includes/class-mpwa-admin-settings.php:93
+msgid "Enable subscription?"
+msgstr "Inschrijven inschakelen?"
+
+#: includes/class-mpwa-admin-settings.php:89
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet as they order. These settings control how your customers subscribe."
+msgstr "Je klanten kunnen zich aanmelden voor de nieuwsbrieven die jij het gemaakt met MailPoet wanneer zij een bestelling plaatsen. Deze instellingen bepalen hoe je klanten kunnen abonneren."
+
+#: includes/class-mpwa-admin-settings.php:73
+msgid "Simply tick the lists you want your customers to subscribe to or allow the customer to choose from and press \"Save changes\"."
+msgstr "Selecter de lijsten waar je klanten zich voor kunnen abonneren of laat hen een keuze maken en klik op \"Bewaar wijzigingen\"."
+
+#: includes/class-mpwa-admin-settings.php:117
+msgid "Controls whether a double opt-in confirmation message is sent, defaults to true."
+msgstr "Bepaalt of een dubbele opt-in bevestiging is verstuurd, standaard is ja."

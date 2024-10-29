@@ -1,0 +1,254 @@
+# Translation of Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-25 14:35:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Add-on WooCommerce &#8211; MailPoet 3 - Development (trunk)\n"
+
+#: includes/class-mpwa-admin-settings.php:185
+msgid "Privacy page"
+msgstr "Página de privacidad"
+
+#: includes/class-mpwa-admin-settings.php:178
+msgid "Display GDPR Subscription consent Text?"
+msgstr "¿Mostrar texto de consentimiento para el RGPD?"
+
+#: includes/class-mpwa-admin-settings.php:174
+msgid "GDPR"
+msgstr "RGPD"
+
+#: includes/class-mpwa-admin-settings.php:186
+msgid "Choose a page to act as your privacy policy."
+msgstr "Elige una página para usarla como política de privacidad."
+
+#: includes/class-mpwa-admin-settings.php:196
+msgid "<i>Write plain or HTML format and include <strong>[privacy_policy]</strong> shortcode to link privacy page in your text. </i>"
+msgstr "<i>Escribe en texto plano en HTML e incluye el shortcode <strong>[privacy_policy]</strong> para enlazar a tu política de privacidad.</i>"
+
+#: includes/class-mpwa-place-order.php:149
+#: includes/class-mpwa-place-order-deprecated.php:135
+msgid "You will no longer receive our newletter! Feel free to subscribe our newsletter anytime you want."
+msgstr "¡Vas a dejar de recibir de recibir nuestro boletín! Recuerda que puedes volver a darte de alta cuando quieras."
+
+#: includes/class-mpwa-admin-settings.php:214
+msgid "Unsubscribe from our newsletter"
+msgstr "Darte de baja de nuestro boletín"
+
+#: includes/class-mpwa-admin-settings.php:210
+msgid "If this feature is enabled, a checkbox will be display in checkout page after subscription section which will let your customer to unsubscribe from mailpoet."
+msgstr "Si se activa esta función se mostrará una casilla en la página de finalizar compra, después de la sección de suscripción, para que tus clientes se puedan dar de baja de Mailpoet."
+
+#: includes/class-mpwa-admin-settings.php:209
+msgid "Unsubscribe checkbox label"
+msgstr "Etiqueta de la casilla de baja"
+
+#: includes/class-mpwa-admin-settings.php:202
+msgid "Display Unsubscribe option"
+msgstr "Mostrar opción de baja"
+
+#: includes/class-mpwa-admin-settings.php:195
+msgid "GDPR Subscription Consent Text"
+msgstr "Texto de consentimiento para el RGPD"
+
+#: includes/class-mpwa-admin-settings.php:179
+msgid "Show GDPR Subscription Consent Text"
+msgstr "Mostrar texto de consentimiento para el RGPD"
+
+#: includes/class-mpwa-frontend-fields.php:152
+msgid "Subscribe to Newsletters"
+msgstr "Suscripción a boletines"
+
+#: includes/class-mpwa-admin-settings.php:141
+#: includes/class-mpwa-frontend-fields.php:182
+msgid "Yes, please subscribe me to the newsletter."
+msgstr "Sí, suscríbeme a boletín, por favor."
+
+#. Author URI of the plugin
+msgid "http://www.tikweb.dk/"
+msgstr "http://www.tikweb.dk/"
+
+#. Author of the plugin
+msgid "Tikweb"
+msgstr "Tikweb"
+
+#. Description of the plugin
+msgid "Let your customers subscribe to your newsletter as they checkout with their purchase."
+msgstr "Permite a tus clientes suscribirse suscriban a tu boletín de noticias cuando realicen el pedido."
+
+#. Plugin Name of the plugin
+msgid "Add-on WooCommerce MailPoet 3"
+msgstr "Add-on WooCommerce MailPoet 3"
+
+#: includes/class-mpwa-place-order.php:91
+#: includes/class-mpwa-place-order-deprecated.php:78
+msgid "We have sent you an email to confirm your newsletter subscription. Please confirm your subscription. Thank you."
+msgstr "Te hemos enviado un correo electrónico para confirmar tu suscripción al boletín. Confirma tu suscripción, por favor."
+
+#: includes/class-mpwa-frontend-fields.php:177
+msgid "Subscribe to Newsletter"
+msgstr "Suscríbete al boletín"
+
+#: includes/class-mpwa-admin-settings.php:257
+msgid "Newsletters"
+msgstr "Boletines"
+
+#: includes/class-mpwa-admin-settings.php:256
+msgid "Enabled"
+msgstr "Activado"
+
+#: includes/class-mpwa-admin-settings.php:165
+msgid "If enabled, all settings for this plugin will all be deleted when uninstalling via Plugins > Delete."
+msgstr "Si está habilitado, todos los ajustes de este plugin se eliminarán cuando lo desinstales mediante Plugins > Borrar."
+
+#: includes/class-mpwa-admin-settings.php:164
+msgid "Remove all data on uninstall?"
+msgstr "¿eliminar todos los datos al desinstalar?"
+
+#: includes/class-mpwa-admin-settings.php:160
+msgid "After Order Submit"
+msgstr "Después del botón de enviar pedido"
+
+#: includes/class-mpwa-admin-settings.php:159
+msgid "Before Order Submit"
+msgstr "Antes de enviar el pedido"
+
+#: includes/class-mpwa-admin-settings.php:158
+msgid "After Order Notes"
+msgstr "Después de las notas del pedido"
+
+#: includes/class-mpwa-admin-settings.php:157
+msgid "Before Order Notes"
+msgstr "Antes de las notas del pedido"
+
+#: includes/class-mpwa-admin-settings.php:156
+msgid "After Shipping Form"
+msgstr "Después del formulario de envío"
+
+#: includes/class-mpwa-admin-settings.php:155
+msgid "Before Shipping Form"
+msgstr "Antes del formulario de envío"
+
+#: includes/class-mpwa-admin-settings.php:154
+msgid "After Billing Form"
+msgstr "Después del formulario de facturación"
+
+#: includes/class-mpwa-admin-settings.php:153
+msgid "Before Billing Form"
+msgstr "Antes del formulario de facturación"
+
+#: includes/class-mpwa-admin-settings.php:146
+msgid "Select where on the checkout page you want to display the subscription sign-up."
+msgstr "Elige en qué parte de la página de finalizar pedido quieres que se muestre el formulario de suscripción."
+
+#: includes/class-mpwa-admin-settings.php:145
+msgid "Subscription Position"
+msgstr "Posición del formulario"
+
+#: includes/class-mpwa-admin-settings.php:136
+msgid "Subscribe checkbox label"
+msgstr "Etiqueta de la casilla de suscripción"
+
+#: includes/class-mpwa-admin-settings.php:132
+msgid "Un-checked"
+msgstr "Deseleccionada"
+
+#: includes/class-mpwa-admin-settings.php:131
+msgid "Checked"
+msgstr "Seleccionada"
+
+#: includes/class-mpwa-admin-settings.php:124
+msgid "The default state of the subscribe checkbox. Be aware some countries have laws against using opt-out checkboxes."
+msgstr "Estado predeterminado de la casilla de suscripción. Ten en cuenta que algunos países tienen leyes en contra de la suscripción por defecto."
+
+#: includes/class-mpwa-admin-settings.php:123
+msgid "Default checkbox status"
+msgstr "Estado por defecto de la casilla"
+
+#: includes/class-mpwa-admin-settings.php:117
+msgid "Controls whether a double opt-in confirmation message is sent, defaults to true."
+msgstr "Controla si se envía un mensaje de doble confirmación. Por defecto sí lo hace."
+
+#: includes/class-mpwa-admin-settings.php:116
+msgid "Enable Double Opt-in?"
+msgstr "¿Habilitar doble verificación?"
+
+#: includes/class-mpwa-admin-settings.php:112
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/class-mpwa-admin-settings.php:111
+msgid "No"
+msgstr "No"
+
+#: includes/class-mpwa-admin-settings.php:102
+msgid "If you have more than one newsletter. Allow your customers to select which lists they wish to subscribe too. %s %s"
+msgstr "Si tienes más de un boletín. Permite que tus clientes elijan a qué otras listas se quieren suscribir también. %s %s"
+
+#: includes/class-mpwa-admin-settings.php:100
+msgid "Multi-Subscription?"
+msgstr "¿Suscripción múltiple?"
+
+#: includes/class-mpwa-admin-settings.php:94
+msgid "Tick this box to enable MailPoet subscription during checkout."
+msgstr "Marca esta casilla para activar la suscripción a MailPoet durante la finalización del pedido."
+
+#: includes/class-mpwa-admin-settings.php:93
+msgid "Enable subscription?"
+msgstr "¿Habilitar suscripción?"
+
+#: includes/class-mpwa-admin-settings.php:89
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet as they order. These settings control how your customers subscribe."
+msgstr "Ahora tus clientes pueden suscribirse a los boletines que has creado con MailPoet como realizan un pedido. Estas opciones controlan cómo se suscribes tus clientes."
+
+#: includes/class-mpwa-admin-settings.php:87
+msgid "MailPoet WooCommerce Add-on"
+msgstr "MailPoet WooCommerce Add-on"
+
+#: includes/class-mpwa-admin-settings.php:73
+msgid "Simply tick the lists you want your customers to subscribe to or allow the customer to choose from and press \"Save changes\"."
+msgstr "Simplemente marca las listas a las que quieres que tus clientes se suscriban o de las que puedan elegir y pulsa \"Guardar cambios\"."
+
+#: includes/class-mpwa-admin-settings.php:57
+#: includes/class-mpwa-admin-settings.php:71
+msgid "Available Lists"
+msgstr "Listas disponibles"
+
+#: includes/class-mpwa-admin-settings.php:56
+msgid "General"
+msgstr "General"
+
+#: includes/class-mpwa-admin-settings.php:34
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: add-on-woocommerce-mailpoet.php:116
+msgid "Hold on a minute. You need to install %s first to use %s."
+msgstr "Un momento. Tienes que instalar %s antes de poder usar %s."
+
+#: add-on-woocommerce-mailpoet.php:88
+msgid "%s plugin requires %s plugin, Please activate %s first to using %s."
+msgstr "%s necesita el plugin %s, activa %s antes de usar %s."
+
+#: add-on-woocommerce-mailpoet.php:62
+msgid "Add-on WooCommerce MailPoet 3  plugin requires PHP version 5.4 or newer, Please upgrade your PHP."
+msgstr "El plugin Add-on WooCommerce MailPoet 3 necesita la versión 5.4 o superior de PHP, actualiza tu PHP."
+
+#: includes/class-mpwa-place-order.php:165
+#: includes/class-mpwa-place-order-deprecated.php:151
+msgid "There appears to be a problem subscribing you to our newsletters. Please let us know so we can manually add you ourselves. Thank you."
+msgstr "Parece que ha habido un problema al suscribirte a nuestro boletín (o boletines). Por favor, ponte en contacto con nosotros para poder añadirte manualmente, gracias."
+
+#: includes/class-mpwa-place-order.php:116
+#: includes/class-mpwa-place-order-deprecated.php:102
+msgid "Thank you for subscribing to our newsletters."
+msgstr "Gracias por suscribirte a nuestros boletines."
+
+#: includes/class-mpwa-admin-settings.php:137
+msgid "The text you want to display next to the \"Subscribe to Newsletter\" checkbox."
+msgstr "El texto que quieres que se muestre junto a la casilla de \"Suscripción a boletines\"."
